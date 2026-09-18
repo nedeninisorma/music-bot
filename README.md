@@ -193,7 +193,9 @@ The bot provides an interactive music panel directly inside Discord.
 
  ## 🛠️ Tech Stack
 
- \<p align="center"\> \<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"\> \<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"\> \<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"\> \<img src="https://img.shields.io/badge/Lavalink-000000?style=for-the-badge" alt="Lavalink"\> \<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"\> \</p\> ### Core
+<p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"> <img src="https://img.shields.io/badge/Lavalink-000000?style=for-the-badge" alt="Lavalink"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></p>
+
+### Core
 
  - **Node.js** — JavaScript runtime
 - **Discord.js** — Discord API integration
@@ -654,8 +656,7 @@ chore: update dependencies
 ---
 
  ## 🔗 Links
+ 
+<p align="center"> <a href="https://github.com/nedeninisorma/music-bot"> <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"> </a> </p>
 
- \<p align="center"\> \<a href="https://github.com/nedeninisorma/music-bot"\> \<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository"\> \</a\> \</p\>
----
-
- \<p align="center"\> Made with JavaScript. \</p\> \`\`\
+<p align="center"> Made with JavaScript. </p>
