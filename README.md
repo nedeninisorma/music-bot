@@ -1,10 +1,4 @@
-Evet, sorun belli. Ekran görüntüsünde **Markdown dosyasını GitHub yerine HTML olarak yorumlayan bir editör/alan** kullanıyorsun gibi görünüyor. Ayrıca önceki cevabımda kullandığım `:::writing` sarmalayıcısı da **README'ye koyulmamalı**.
 
- Senin istediğin şey doğrudan kopyalanabilir **saf Markdown**. Özellikle `<p align="center">`, `<a>` ve `<img>` etiketleri GitHub README'de çalışır; ancak bunları Markdown'ı desteklemeyen bir alana yapıştırırsan kod olarak görünür.
-
- GitHub'a koyacaksan aşağıdaki gibi kullan:
-
-````
 # 🎶 Music Bot
 
 <p align="center">
