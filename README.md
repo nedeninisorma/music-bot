@@ -2,7 +2,7 @@
 # 🎶 Music Bot
 
 <p align="center">
-  <strong>Powerful, feature-rich Discord music bot powered by Lavalink and Discord.js.</strong>
+  <strong>Powerful, feature-rich Discord music bot powered by Lavalink and Discord.js.</strong
 </p>
 
 <p align="center">
